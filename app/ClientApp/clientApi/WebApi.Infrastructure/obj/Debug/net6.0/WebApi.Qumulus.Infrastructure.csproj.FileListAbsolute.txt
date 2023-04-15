@@ -1,0 +1,38 @@
+/Users/jessiefurigay/Desktop/IT Related/Vue/Crud/clientApp/clientApi/WebApi.Infrastructure/bin/Debug/net6.0/WebApi.Qumulus.Infrastructure.deps.json
+/Users/jessiefurigay/Desktop/IT Related/Vue/Crud/clientApp/clientApi/WebApi.Infrastructure/bin/Debug/net6.0/WebApi.Qumulus.Infrastructure.runtimeconfig.json
+/Users/jessiefurigay/Desktop/IT Related/Vue/Crud/clientApp/clientApi/WebApi.Infrastructure/bin/Debug/net6.0/WebApi.Qumulus.Infrastructure.dll
+/Users/jessiefurigay/Desktop/IT Related/Vue/Crud/clientApp/clientApi/WebApi.Infrastructure/bin/Debug/net6.0/WebApi.Qumulus.Infrastructure.pdb
+/Users/jessiefurigay/Desktop/IT Related/Vue/Crud/clientApp/clientApi/WebApi.Infrastructure/bin/Debug/net6.0/WebApi.Qumulus.Application.dll
+/Users/jessiefurigay/Desktop/IT Related/Vue/Crud/clientApp/clientApi/WebApi.Infrastructure/bin/Debug/net6.0/WebApi.Qumulus.Domain.dll
+/Users/jessiefurigay/Desktop/IT Related/Vue/Crud/clientApp/clientApi/WebApi.Infrastructure/bin/Debug/net6.0/WebApi.Qumulus.Application.pdb
+/Users/jessiefurigay/Desktop/IT Related/Vue/Crud/clientApp/clientApi/WebApi.Infrastructure/bin/Debug/net6.0/WebApi.Qumulus.Domain.pdb
+/Users/jessiefurigay/Desktop/IT Related/Vue/Crud/clientApp/clientApi/WebApi.Infrastructure/obj/Debug/net6.0/WebApi.Qumulus.Infrastructure.csproj.AssemblyReference.cache
+/Users/jessiefurigay/Desktop/IT Related/Vue/Crud/clientApp/clientApi/WebApi.Infrastructure/obj/Debug/net6.0/WebApi.Qumulus.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jessiefurigay/Desktop/IT Related/Vue/Crud/clientApp/clientApi/WebApi.Infrastructure/obj/Debug/net6.0/WebApi.Qumulus.Infrastructure.AssemblyInfoInputs.cache
+/Users/jessiefurigay/Desktop/IT Related/Vue/Crud/clientApp/clientApi/WebApi.Infrastructure/obj/Debug/net6.0/WebApi.Qumulus.Infrastructure.AssemblyInfo.cs
+/Users/jessiefurigay/Desktop/IT Related/Vue/Crud/clientApp/clientApi/WebApi.Infrastructure/obj/Debug/net6.0/WebApi.Qumulus.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/jessiefurigay/Desktop/IT Related/Vue/Crud/clientApp/clientApi/WebApi.Infrastructure/obj/Debug/net6.0/WebApi.Qumulus.Infrastructure.csproj.CopyComplete
+/Users/jessiefurigay/Desktop/IT Related/Vue/Crud/clientApp/clientApi/WebApi.Infrastructure/obj/Debug/net6.0/WebApi.Qumulus.Infrastructure.dll
+/Users/jessiefurigay/Desktop/IT Related/Vue/Crud/clientApp/clientApi/WebApi.Infrastructure/obj/Debug/net6.0/refint/WebApi.Qumulus.Infrastructure.dll
+/Users/jessiefurigay/Desktop/IT Related/Vue/Crud/clientApp/clientApi/WebApi.Infrastructure/obj/Debug/net6.0/WebApi.Qumulus.Infrastructure.pdb
+/Users/jessiefurigay/Desktop/IT Related/Vue/Crud/clientApp/clientApi/WebApi.Infrastructure/obj/Debug/net6.0/WebApi.Qumulus.Infrastructure.genruntimeconfig.cache
+/Users/jessiefurigay/Desktop/IT Related/Vue/Crud/clientApp/clientApi/WebApi.Infrastructure/obj/Debug/net6.0/ref/WebApi.Qumulus.Infrastructure.dll
+/Users/jessiefurigay/Desktop/clientApi/WebApi.Infrastructure/bin/Debug/net6.0/WebApi.Qumulus.Infrastructure.deps.json
+/Users/jessiefurigay/Desktop/clientApi/WebApi.Infrastructure/bin/Debug/net6.0/WebApi.Qumulus.Infrastructure.runtimeconfig.json
+/Users/jessiefurigay/Desktop/clientApi/WebApi.Infrastructure/bin/Debug/net6.0/WebApi.Qumulus.Infrastructure.dll
+/Users/jessiefurigay/Desktop/clientApi/WebApi.Infrastructure/bin/Debug/net6.0/WebApi.Qumulus.Infrastructure.pdb
+/Users/jessiefurigay/Desktop/clientApi/WebApi.Infrastructure/bin/Debug/net6.0/WebApi.Qumulus.Application.dll
+/Users/jessiefurigay/Desktop/clientApi/WebApi.Infrastructure/bin/Debug/net6.0/WebApi.Qumulus.Domain.dll
+/Users/jessiefurigay/Desktop/clientApi/WebApi.Infrastructure/bin/Debug/net6.0/WebApi.Qumulus.Application.pdb
+/Users/jessiefurigay/Desktop/clientApi/WebApi.Infrastructure/bin/Debug/net6.0/WebApi.Qumulus.Domain.pdb
+/Users/jessiefurigay/Desktop/clientApi/WebApi.Infrastructure/obj/Debug/net6.0/WebApi.Qumulus.Infrastructure.csproj.AssemblyReference.cache
+/Users/jessiefurigay/Desktop/clientApi/WebApi.Infrastructure/obj/Debug/net6.0/WebApi.Qumulus.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jessiefurigay/Desktop/clientApi/WebApi.Infrastructure/obj/Debug/net6.0/WebApi.Qumulus.Infrastructure.AssemblyInfoInputs.cache
+/Users/jessiefurigay/Desktop/clientApi/WebApi.Infrastructure/obj/Debug/net6.0/WebApi.Qumulus.Infrastructure.AssemblyInfo.cs
+/Users/jessiefurigay/Desktop/clientApi/WebApi.Infrastructure/obj/Debug/net6.0/WebApi.Qumulus.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/jessiefurigay/Desktop/clientApi/WebApi.Infrastructure/obj/Debug/net6.0/WebApi.Qumulus.Infrastructure.csproj.CopyComplete
+/Users/jessiefurigay/Desktop/clientApi/WebApi.Infrastructure/obj/Debug/net6.0/WebApi.Qumulus.Infrastructure.dll
+/Users/jessiefurigay/Desktop/clientApi/WebApi.Infrastructure/obj/Debug/net6.0/refint/WebApi.Qumulus.Infrastructure.dll
+/Users/jessiefurigay/Desktop/clientApi/WebApi.Infrastructure/obj/Debug/net6.0/WebApi.Qumulus.Infrastructure.pdb
+/Users/jessiefurigay/Desktop/clientApi/WebApi.Infrastructure/obj/Debug/net6.0/WebApi.Qumulus.Infrastructure.genruntimeconfig.cache
+/Users/jessiefurigay/Desktop/clientApi/WebApi.Infrastructure/obj/Debug/net6.0/ref/WebApi.Qumulus.Infrastructure.dll

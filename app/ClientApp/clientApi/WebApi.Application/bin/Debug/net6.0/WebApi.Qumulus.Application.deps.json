@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "WebApi.Qumulus.Application/1.0.0": {
+        "dependencies": {
+          "WebApi.Qumulus.Domain": "1.0.0"
+        },
+        "runtime": {
+          "WebApi.Qumulus.Application.dll": {}
+        }
+      },
+      "WebApi.Qumulus.Domain/1.0.0": {
+        "runtime": {
+          "WebApi.Qumulus.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WebApi.Qumulus.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "WebApi.Qumulus.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
